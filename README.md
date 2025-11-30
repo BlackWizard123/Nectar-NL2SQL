@@ -87,6 +87,28 @@ The sync application (`sync_server.py`) keeps PostgreSQL and ChromaDB aligned.
 This makes the fallback search accurate and up to date.
 
 ---
+## 🛠️ Tech Stack
+
+**Frontend**
+- HTML
+- CSS
+
+**Backend**
+- Python
+- FastAPI
+
+**Database**
+- PostgreSQL (Relational Database)
+- ChromaDB (Vector Database for semantic search)
+
+**AI / LLM**
+- Groq API (SQL generation, summarization, embeddings)
+
+**Other**
+- Async background syncing
+- Custom SQL validator
+
+---
 
 ## 🗂️ Project Overview
 
