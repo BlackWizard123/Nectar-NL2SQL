@@ -131,9 +131,9 @@ Create a `.env` file in the project root:
 ```
 DB_HOST="localhost"
 DB_PORT="5432"
-DB_NAME="nectar_db"
+DB_NAME="your_db_name"
 DB_USER="postgres"
-DB_PASSWORD="#No1billionaire"
+DB_PASSWORD="your_db_pswd"
 GROQ_API_KEY=your_api_key_here
 ```
 Make sure PostgreSQL is running locally with the above credentials.
