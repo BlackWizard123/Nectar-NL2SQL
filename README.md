@@ -142,6 +142,9 @@ This makes the fallback search accurate and up to date.
 - roles
 - skills
 
+  <img width="918" height="993" alt="hhUntitled" src="https://github.com/user-attachments/assets/a2d0a868-426d-4a0b-b8e1-a25cd3f8d973" />
+
+
 For detailed schema, refer to the schema file inside the `database/` folder.
 
 ---
